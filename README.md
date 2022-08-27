@@ -1,6 +1,6 @@
 # Integrate Leaflet Maps in Laravel 
 
-<p align="center"><img src="https://github.com/ultimateakash/laravel-leaflet-maps/blob/master/public/laravel-leaflet-maps.png"></p>
+<p align="center"><img src="https://github.com/ultimateakash/laravel-leaflet-maps/blob/master/public/laravel-leaflet-maps.jpg"></p>
 
 
 <p align="center">
